@@ -1,3 +1,2 @@
 # helloworld
-My frst repository on Git
-hjj
+hjj frst repository on Git
